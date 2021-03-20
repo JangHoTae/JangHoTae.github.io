@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "BoomBa"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/profile.jpg"
   bio              : ""
   location         : ""
   email            :
